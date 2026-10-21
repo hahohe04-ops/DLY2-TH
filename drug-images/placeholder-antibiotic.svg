@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" rx="42" fill="#fff0ec"/>
+  <rect x="275" y="140" width="250" height="110" rx="55" fill="#ffffff" stroke="#ed775a" stroke-width="18" transform="rotate(-25 400 195)"/>
+  <path d="M400 126v140" stroke="#ed775a" stroke-width="15" transform="rotate(-25 400 195)"/>
+  <text x="400" y="420" text-anchor="middle" fill="#9d4a37" font-family="Arial,sans-serif" font-size="34" font-weight="700">ẢNH RIÊNG CHƯA CÓ TRONG PDF</text>
+</svg>
